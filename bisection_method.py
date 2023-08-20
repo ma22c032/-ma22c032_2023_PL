@@ -10,7 +10,7 @@ Original file is located at
 
 a=float(input("a(interval started from a)= "))
 b=float(input("b(interval ended at b)= "))
-eps=float(input("eps(for accuracy)= 
+eps=float(input("eps(for accuracy)= "))
 f = input('type your function=')
 
 def bisection_method(f,a,b,eps,niters):
