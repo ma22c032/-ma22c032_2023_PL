@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1vZMlHqGnA38n_m35y6tBD5ovZIPI7DBq
 """
 
+f = input('type your function=')
 def bisection_method(f,a,b,eps,niters):
 
 # Implement the bisection method to find a root of the function f(x) = 0.
